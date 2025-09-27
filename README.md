@@ -25,7 +25,7 @@ The EDA established the integrity of the dataset and surfaced strong financial a
 ### Key Risk Indicators
 | Indicator | Threshold | Why It Matters |
 | :--- | :--- | :--- |
-| **High Credit Utilization** | > 0.6$  | Indicates financial strain and overextension. |
+| **High Credit Utilization** | > 0.6  | Indicates financial strain and overextension. |
 | **Frequent Missed Payments** | $\ge 4$  | Direct behavioral signal of delinquency risk. |
 | **High Debt-to-Income Ratio** | $> 0.4$  | Suggests poor affordability and high default probability. |
 
@@ -103,7 +103,7 @@ A conceptual high-level design for a scalable, responsible AI collections system
 👤 **Dolly Gupta**  
 📍 Data Science & Analytics Enthusiast  
 📧 *dollygupt362@gmail.com*  
-🔗 [LinkedIn]([http://www.linkedin.com/in/dolly-gupta-3b54b8229])  
+🔗 [LinkedIn](http://www.linkedin.com/in/dolly-gupta-3b54b8229)  
 
 
 
